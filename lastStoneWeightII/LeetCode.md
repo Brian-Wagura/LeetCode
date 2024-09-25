@@ -5,6 +5,12 @@
 memory block that was previously allocated using
 malloc(), calloc(), realloc() itself.
 
+### `memset()` 
+`void* memset(void* ptr, int value, size_t size);`
+- fills a block of memory with a specific value.
+- initializes memory.
+- defined in <string.h> 
+
 ## Heapify Down/ Sift Down/ Bubble Down
 - Used to maintain heap property in a max heap after removing
 the root node/max element. 

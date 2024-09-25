@@ -96,7 +96,7 @@ int lastStoneWeightII(int* stones, int stonesSize) {
 int main() {
     int stones[] = {2, 7, 4, 1, 8, 1};
     int size = sizeof(stones) / sizeof(stones[0]);
-    int result = lastStoneWeight(stones, size);
+    int result = lastStoneWeightII(stones, size);
     printf("The smallest possible weight of the last stone is: %d\n", result);
     return 0;
 }
