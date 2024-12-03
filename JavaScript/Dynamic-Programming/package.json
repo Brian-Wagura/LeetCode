@@ -1,0 +1,14 @@
+{
+  "name": "dynamic-programming",
+  "version": "1.0.0",
+  "description": "Dynamic programming leetcode solved using JS",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Brian Wagura",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "eslint": "^9.16.0",
+    "globals": "^15.13.0"
+  }
+}
